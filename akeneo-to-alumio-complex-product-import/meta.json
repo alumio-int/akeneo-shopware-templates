@@ -1,0 +1,16 @@
+{
+  "name": "Akeneo to Alumio - Complex Product Import",
+  "description": "Import Akeneo complex product data into Alumio storage.",
+  "source_system": "Akeneo",
+  "target_system": "Alumio",
+  "tags": [
+    "product",
+    "import",
+    "akeneo",
+    "alumio",
+    "variant",
+    "children"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.100.0"
+}
