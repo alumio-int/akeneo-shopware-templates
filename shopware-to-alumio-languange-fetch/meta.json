@@ -1,0 +1,15 @@
+{
+  "name": "Shopware to Alumio - Language Fetch",
+  "description": "Sync Language from Shopware into Alumio.",
+  "source_system": "Shopware",
+  "target_system": "Alumio",
+  "tags": [
+    "language",
+    "locale",
+    "fetch",
+    "alumio",
+    "shopware"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.100.0"
+}
