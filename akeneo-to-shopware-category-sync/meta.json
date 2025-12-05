@@ -1,0 +1,14 @@
+{
+  "name": "Akeneo to Shopware - Categories Sync",
+  "description": "Sync Categories from Akeneo into Shopware.",
+  "source_system": "Akeneo",
+  "target_system": "Shopware",
+  "tags": [
+    "category",
+    "sync",
+    "akeneo",
+    "shopware"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.100.0"
+}
