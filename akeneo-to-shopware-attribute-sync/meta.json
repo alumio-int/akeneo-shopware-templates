@@ -1,0 +1,16 @@
+{
+  "name": "Akeneo to Shopware - Attribute Sync",
+  "description": "Sync Attribute from Akeneo into Shopware Property Group or Custom Field.",
+  "source_system": "Akeneo",
+  "target_system": "Shopware",
+  "tags": [
+    "attribute",
+    "sync",
+    "property group",
+    "custom field",
+    "akeneo",
+    "shopware"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.100.0"
+}
