@@ -1,0 +1,17 @@
+{
+  "name": "Akeneo to Shopware – Product Sync",
+  "description": "Sync full product data from Alumio storage or Akeneo into Shopware product & variants using the Shopware API.",
+  "source_system": "Akeneo",
+  "target_system": "Shopware",
+  "tags": [
+    "product",
+    "simple-product",
+    "sync",
+    "akeneo",
+    "shopware",
+    "variants",
+    "publish"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.100.0"
+}
